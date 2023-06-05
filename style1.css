@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+  }
+#first{
+    background-color: antiquewhite;
+    border: 5px solid black;
+    margin: auto;
+    padding: 0%;
+}
+#second{
+    background-color: lightslategray;
+    border: 5px solid black;
+    margin: auto;
+    padding: 0%;
+}
+.first{
+    background-color: lightpink;
+    border: 5px solid black;
+    margin: auto;
+    padding: 0%;
+}
+.second{
+    background-color: aquamarine;
+    border: 5px solid black;
+    margin: auto;
+    padding: 0%;
+}
+.three{
+    background-color: lightblue;
+    border:  5px solid black;
+    margin: auto;
+    padding: 0%;
+}
+.four{
+    background-color: rgb(226, 184, 226);
+    border: 5px solid black;
+    margin: auto;
+    padding: 0%;
+}
